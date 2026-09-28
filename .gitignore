@@ -1,0 +1,6 @@
+node_modules
+dist
+
+# 參考用圖片（第三方宣傳圖，不上傳）
+/S__*.jpg
+*.tsbuildinfo
